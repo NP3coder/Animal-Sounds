@@ -1,0 +1,41 @@
+body
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background: #e8dddd;
+}
+
+.header_div
+  {
+  background: #5e2d2d;
+  color: white; 
+  }
+
+  .header_div p{
+    font-family: Impact , sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: Impact, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+  .h3{
+    color: #5e2d2d;
+  }
+
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #ffffff;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #5e2d2d;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
